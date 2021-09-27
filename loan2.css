@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&effect=shadow-multiple');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap&effect=fire');
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@700&effect=neon|outline|emboss|shadow-multiple');
+@import url('https://fonts.googleapis.com/css?family=Roboto&effect=neon|outline|emboss|shadow-multiple');
+
+body {
+	font-family: 'Stick No Bills', sans-serif;
+	background: black;
+	color: white;
+}
+
+#content {
+    width: 800px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    border: 1px solid #000000;
+}
+
+h1 {
+	text-align: center;
+	font-size: 48px;
+}
+
+p {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
+
+img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+label {
+    display: block;
+    width: 25em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
