@@ -7,7 +7,7 @@ body {
     width: 600px;
     margin: 10px auto;
     padding: 5px 20px;
-    background: black;
+    background: #FFFFFF;
     border: 1px solid #000000;
 }
 
@@ -42,8 +42,3 @@ input {
 br {
     clear: left;
 }
-
-
-
-	font-family: 'Rubik Beastly', cursive;
-	font-family: 'Stick No Bills', sans-serif;
