@@ -8,7 +8,7 @@ for (var i = 0; i < arrayNames.length; i++) {
 	stringOutput += arrayNames[i] + " plays " + arrayInstruments[i] + "\n";
 }
 
-//alert(stringOutput);
+alert(stringOutput);
 
 
 //task 2
